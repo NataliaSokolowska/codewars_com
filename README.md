@@ -1,1 +1,1 @@
-# codewars_com
+# challenges from [codewars.com](https://codewars.com)
